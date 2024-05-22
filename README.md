@@ -1,2 +1,1 @@
-# News-Article---Text-Classification
-Assignment for text classification and NN with Locality Sensitive Hashing
+# Details in Big Data Mining Techniques (2023-24).pdf
